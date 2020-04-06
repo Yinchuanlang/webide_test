@@ -1,0 +1,13 @@
+{
+  "projectType": [
+    "sap.watt.uitools.ide.fiori",
+    "sap.html5"
+  ],
+  "generation": [
+    {
+      "templateId": "ui5template.basicSAPUI5ApplicationComponent",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Mon, 06 Apr 2020 09:55:18 GMT"
+    }
+  ]
+}
