@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 //888abc
-=======
+
 //888555
->>>>>>> branch 'master' of https://github.com/Yinchuanlang/webide_test.git
 
 /123
 
